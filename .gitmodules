@@ -1,5 +1,10 @@
   
-[submodule "zaidkilani/welovereading"]
-	path = zaidkilani/welovereading
-	url = git@github.com:zaidkilani/welovereading.git
-	branch = master
+[submodule "ipywidgets"]
+	path = ipywidgets
+	url = https://github.com/jupyter-widgets/ipywidgets.git
+[submodule "account-budgeting"]
+	path = account-budgeting
+	url = https://github.com/OCA/account-budgeting.git
+[submodule "royalline-addons"]
+	path = royalline-addons
+	url = https://github.com/zaidkilani/royalline-addons.git
